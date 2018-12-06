@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Практика четвертого урока</string>
-    <string name="state_default">Текущее состояние</string>
+    <string name="state_default">Нажмите, чтобы сменить состояние</string>
     <string name="changeState_button">Сменить состояние</string>
 </resources>
